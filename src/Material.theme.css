@@ -35,8 +35,16 @@
     border-radius: 100px
 }
 
+.navButtonActive-1EqC5l:hover {
+    color:#1b1b1f;
+}
+
 .contentDefault-17ewQQ, .contentUnread-1_MVDK {
     border-radius: 100px;
+}
+
+.button-1EGGcP.buttonColor-3bP3fX, .button-1EGGcP .buttonColor-3bP3fX {
+    background-color:#b0c6ff;
 }
 
 .button-TGAkj4 {
