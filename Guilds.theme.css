@@ -1,0 +1,11 @@
+/**
+    * @name Guilds
+    * @author ayanokato
+    * @version 1.2
+    * @description Gives Discord a Material You-like aesthetic.
+    * @source https://github.com/ayanokato/guilds-theme
+    * @authorId 1131359031571787969
+    * @updateUrl https://raw.githubusercontent.com/ayanokato/guilds-theme/main/Guilds.theme.css
+*/
+
+@import url("https://raw.githubusercontent.com/ayanokato/guilds-theme/main/src/Material.theme.css")
